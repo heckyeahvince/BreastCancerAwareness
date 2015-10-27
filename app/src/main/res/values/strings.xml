@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">Breast Cancer Awareness</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="text0">
+        <p align = "justify">Breast cancer is a disease in which malignant (cancer) cells form
+        in the tissues of the breast. The damaged cells can invade surrounding tissue,
+        but with <b>early detection</b> and <b>treatment</b>, most people continue a normal life.</p>
+    </string>
+
+    <string name="text1">
+        <p align = "justify">Cancer begins in the cells which are the basic building blocks that make up tissue.
+        Tissue is found in the breast and other parts of the body.  Sometimes, the process of cell growth goes wrong
+        and new cells form when the body doesn’t need them and old or damaged cells do not die as they should.
+        When this occurs, a build up of cells often forms a mass of tissue called a lump, growth, or tumor.\n\n</p>
+
+        <p align = "justify">Breast cancer occurs when malignant tumors develop in the breast.
+        These cells can spread by breaking away from the original tumor and entering blood vessels
+        or lymph vessels, which branch into tissues throughout the body. When cancer cells travel
+        to other parts of the body and begin damaging other tissues and organs, the process is called <b>metastasis</b>.</p>
+    </string>
+
+    <string name="text2">
+        <p align="justify">
+        Breast cancer tumor grades are not to be confused with <b>cancer stages</b>. Tumor grades help
+             to determine the best treatment plan, and in general, a lower grade tumor means a better chance
+            for a full recovery. However, there are individuals who make
+            full recoveries at every stage and with even the highest grades of aggressive tumors.
+        </p>
+    </string>
+
+    <string name="text3">
+        <p align = "justify">According to the World Health Organization, breast cancer is the most common cancer among women worldwide,
+        claiming the lives of hundreds of thousands of women each year
+        and affecting countries at all levels of modernization.</p>
+    </string>
+
+    <string name="text4">
+        <p align="justify">Once a person is determined to have a malignant tumor or the diagnosis of breast cancer, the healthcare team will determine staging to communicate how far the disease has progressed.
+
+<i>\n\nWhy is the breast cancer stage important?</i>\n\n
+Determining the stage helps determine the best way to contain and eliminate the breast cancer.
+
+<i>\n\nHow is the stage determined?</i>
+The stage is based on the following factors:
+    \n\n\t\tThe size of the tumor within the breast
+    \n\t\tThe number of lymph nodes affected
+    \n\t\tThe nearest lymph nodes are found under the arm, known as the axillary area
+    \n\t\tSigns indicating whether or not the breast cancer cancer has invaded other organs within the body\n\n
+
+
+\n\nIf breast cancer has spread, or metastasized, evidence be may found in the bones, liver, lungs, or brain.
+    </p></string>
+
+    <string name="text5">
+        <p align = "justify">Women with certain <b>risk factors</b> are more likely than others to develop breast cancer.
+    A risk factor is something that may increase the chance of getting a disease.
+    Some risk factors (such as drinking alcohol) can be avoided. But most risk factors
+    (such as having a family history of breast cancer) can’t be avoided. Having a risk factor
+    does not mean that a woman will get breast cancer. Many women who have risk factors
+    never develop breast cancer.</p>
+    </string>
+
+    <string name="text6">
+        <p align = "justify">Cancer grows when a cell’s DNA is damaged,
+            but why or how that DNA becomes damaged is still unknown. It could be genetic or environmental,
+            or in most cases, a combination of the two. But most patients will never know exactly what caused their cancer.
+            However, there are certain established risk factors that are associated with breast cancer</p>
+    </string>
+
+    <string name="text7">
+        <p align = "justify">
+            <font size="24"><b>Gender</b></font>:\nBreast cancer occurs nearly 100 times more often in women than in men.
+\n\n<font size="24"><b>Age</b></font>:\nTwo out of three women with invasive cancer are diagnosed after age 55.
+\n\n<font size="24"><b>Race</b></font>:\nBreast cancer is diagnosed more often in caucasian women than women of other races.
+\n\n<font size="24"><b>Family History and Genetic Factors</b></font>:\nIf your mother, sister, father or child has been diagnosed with breast or ovarian cancer, you have a higher risk of being diagnosed with breast cancer in the future. Your risk increases if your relative was diagnosed before the age of 50.
+\n\n<font size="24"><b>Personal Health History</b></font>:\nIf you have been diagnosed with breast cancer in one breast, you have an increased risk of being diagnosed with breast cancer in the other breast in the future. Also, your risk increases if abnormal breast cells have been detected before (such as atypical hyperplasia, lobular carcinoma in situ (LCIS) or ductal carcinoma in situ (DCIS)).
+\n\n<font size="24"><b>Menstrual and Reproductive History</b></font>:\nEarly menstruation (before age 12), late menopause (after 55), having your first child at an older age, or never having given birth can also increase your risk for breast cancer.
+\n\n<font size="24"><b>Certain Genome Changes</b></font>:\nMutations in certain genes, such as BRCA1 and BRCA2, can increase your risk for breast cancer. This is determined through a genetic test, which you may consider taking if you have a family history of breast cancer. Individuals with these gene mutations can pass the gene mutation onto their children.
+\n\n<font size="24"><b>Dense Breast Tissue</b></font>:\nHaving dense breast tissue can increase your risk for breast cancer and make lumps harder to detect. Several states have passed laws requiring physicians to disclose to women if their mammogram indicates that they have dense breasts so that they are aware of this risk. Be sure to ask your physician if you have dense breasts and what the implications of  having dense breasts are.</p>
+    </string>
+
+    <string name="text8">
+        <p align = "justify">
+            <font size="24"><b>Lack of Physical Activity</b></font>:\nA sedentary lifestyle with little physical activity can increase your risk for breast cancer.\n\n<font size="24"><b>Poor Diet</b></font>:\nA diet high in saturated fat and lacking fruits and vegetables can increase your risk for breast cancer.
+        \n\n<font size="24"><b>Being Overweight or Obese</b></font>:\nBeing overweight or obese can increase your risk for breast cancer. Your risk is increased if you have already gone through menopause.
+        \n\n<font size="24"><b>Drinking Alcohol</b></font>:\nFrequent consumption of alcohol can increase your risk for breast cancer. The more alcohol you consume, the greater the risk.
+        \n\n<font size="24"><b>Radiation to the Chest</b></font>:\nHaving radiation therapy to the chest before the age of 30 can increase your risk for breast cancer.
+        \n\n<font size="24"><b>Combined Hormone Replacement Therapy (HRT)</b></font>:\nTaking combined hormone replacement therapy, as prescribed for menopause, can increase your risk for breast cancer and increases the risk that the cancer will be detected at a more advanced stage.
+    </p>
+    </string>
+
+    <string name="text9">
+        <p align = "justify">
+            A tumor is a mass of abnormal tissue. There are two types of breast cancer tumors:
+            those that are non-cancerous, or ‘benign’, and those that are cancerous, which are ‘malignant’.</p>
+        <p align = "justify">
+\n\n<font size="24"><b>Benign Tumors</b></font>\n
+When a tumor is diagnosed as benign, doctors will usually leave it alone rather than remove it.
+            Even though these tumors are not generally aggressive toward surrounding tissue,
+            occasionally they may continue to grow, pressing on organs and causing pain or other problems.
+            In these situations, the tumor is removed, allowing pain or complications to subside.</p>
+
+
+        <p align = "justify">
+\n\n<font size="24"><b>Malignant tumors</b></font>\n
+Malignant tumors are cancerous and aggressive because they invade and damage surrounding tissue.
+            When a tumor is suspected to be malignant, the doctor will perform a biopsy to determine
+            the severity or aggressiveness of the tumor.</p>
+
+        <p align = "justify">
+\n\n<font size="24"><b>Metastatic cancer</b></font>\n
+Metastatic cancer is when cancer cells of a malignant tumor spread to other parts of the body, usually through the lymph system, and form a secondary tumor.
+        </p>
+    </string>
+
+    <string name="text10">
+            <p align = "justify">Tumor grading is a system used to classify a malignant breast cancer tumor based
+            upon the severity of the mutation and the likelihood that it will spread. The breast cancer cells
+            are examined under a microscope to determine, among other factors, how closely the breast cancer
+            cells resemble the healthy cells (called the histologic grade) and the shape and size of the tumor cells\’
+            nuclei (called the nuclear grade) as well as how rapidly those cells divide and multiply.</p>
+
+            <p align="justify">\n\nWhen dealing with breast cancer, tumors are often graded based on a scale of one to
+             three indicating how aggressive the cancerous cells are:
+
+                     \n\t\tLow grade (1) - Well-diffentiated
+                     \n\t\tIntermediate grade (2) - Moderately differentiated
+                    \n\t\tHigh grade (3) - Poorly differentiated\n\n
+
+
+            \n\nLow grade tumors look more like normal tissue under the microscope. High-grade tumors
+            look abnormal and less like normal tissue and tend to be more aggressive.</p>
+    </string>
+
+    <string name="text11">
+            <p align = "justify">
+           Breast cancer tumor grades are not to be confused with <b>cancer stages</b>.
+                Tumor grades help to determine the best treatment plan, and in general,
+                a lower grade tumor means a better chance for a full recovery. However, there
+                are individuals who make full recoveries
+                at every stage and with even the highest grades of aggressive tumors.
+
+            </p>
+    </string>
+
+    <string name="text12">
+            <p align = "justify">
+                <font size="10">Top-Bottom: Stage 0 and 1, Stage 2, Stage 3 and Stage 4\n</font>
+                <b>Stage 0 and 1</b>\n\nThese lowest numbered stages represent the earliest detection of breast cancer development.
+                At Stage 0 and 1, the cancer cells are confined to a very limited area.\n\n
+                <b>Stage 2 </b>\n\nStage 2 breast cancer is still in the earlier stages, but there is evidence that
+                the cancer has begun to grow or spread.  It is still contained
+                to the breast area and is generally very effectively treated.\n\n
+                <b>Stage 3</b>\n\nStage 3 breast cancer is considered advanced cancer with evidence
+                of cancer invading surrounding tissues near the breast.\n\n
+                <b>Stage 4</b>\n\nStage 4 breast cancer indicates that cancer has spread beyond
+                the breast to other areas of the body.</p>
+    </string>
+
+        <string name="text13">
+            <p align = "justify">
+October is Breast Cancer Awareness Month, and many countries in the world,
+            including the Philippines, are planning a set of activities in line with this event.
+            Everyone is encouraged to participate by helping to raise funds for research and indigent patients,
+            volunteering to help those battling the disease in any way you can or simply educating yourself
+            on breast cancer prevention and treatment.\n\n
+
+The Philippines is at the center of the fight against breast cancer in Asia. The country has the highest incidence
+                of breast cancer in the continent and an estimated 3 out of 100 Filipino women will contract the disease
+                before age 75; 1 out of 100 will die before age 75, according to the Philippine Society of Medical Oncology
+                in 2012. This complements the Department of Health and Philippine Cancer Society, Inc. report, which states
+                that breast cancer is the most common cancer in the country, comprising 16 percent of the 80,000 new cancer
+                cases in 2010.
+                            <font size="10">\nSee more at: http://www.gmanetwork.com/news/story/329126/cbb/phl-has-highest-breast
+                -cancer-rate-in-asia.</font></p></string>
+
+            <string name="text14">
+            <p align = "justify">
+                The Philippines is at the center of the battle against breast cancer. Several reports
+                show that the country has the highest incidence rate in Asia and is among the top 10 countries
+                with the most cases of breast cancer. The disease is so common that one of every 13 Filipino
+                women are expected to develop breast cancer in her lifetime.
+The Department of Health and the Philippine Cancer Society, Inc. confirmed
+                the high prevalence of breast cancer in the country, stating in a report that breast cancer is
+                the most common cancer in the Philippines, taking at least 16 percent of the 50,000 cases diagnosed
+                with cancer. (2010 Philippine Cancer Facts and Estimates)
+To date, breast cancer is still the leading cause of cancer among women, accounting for 28 percent of the total cases.
+                One out of four who are diagnosed with breast cancer die
+                within the first five years, and no less than 40 percent die within 10 years.
+                            <font size="10">\nSee more at: http://psmo.org.ph/the-abcs-of-breast-cancer/.</font>
+            </p></string>
+
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

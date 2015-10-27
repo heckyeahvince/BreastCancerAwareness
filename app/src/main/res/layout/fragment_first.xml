@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/bg" >
+
+        <TextView
+            android:id="@+id/tvFragFirst"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textSize="26sp"
+            android:text="TextView"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginTop="20dp" />
+
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:id="@+id/tvH0"
+            android:text="What is Breast Cancer?"
+            android:textSize="26sp"
+            android:textColor="#b48484"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvText0"
+            android:text="@string/text0"
+            android:textSize="20sp"
+            android:gravity="center"/>
+
+
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/img0"
+            android:gravity="center"
+            android:background="@drawable/sym2"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp" />
+
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:id="@+id/tvH1"
+            android:text="What Causes Cancer to Develop in General?"
+            android:textSize="26sp"
+            android:textColor="#b48484"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginBottom="20dp"/>
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:id="@+id/img1"
+            android:gravity="center"
+            android:background="@drawable/cobc1"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvText1"
+            android:text="@string/text1"
+            android:textSize="20sp"
+            android:gravity="center"/>
+
+
+        ///////////
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:id="@+id/tvH9"
+            android:text="Breast Tumors"
+            android:textSize="26sp"
+            android:textColor="#b48484"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginBottom="20dp"/>
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:id="@+id/img2"
+            android:gravity="center"
+            android:background="@drawable/bt1"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvText2"
+            android:text="@string/text9"
+            android:textSize="20sp"
+            android:gravity="center"/>
+
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:id="@+id/tvH10"
+            android:text="Tumor Grade"
+            android:textSize="26sp"
+            android:textColor="#b48484"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginBottom="20dp"/>
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:id="@+id/img10"
+            android:gravity="center"
+            android:background="@drawable/bt2"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvText10"
+            android:text="@string/text10"
+            android:textSize="20sp"
+            android:gravity="center"/>
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:id="@+id/img11"
+            android:gravity="center"
+            android:background="@drawable/bt3"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvText11"
+            android:text="@string/text2"
+            android:textSize="20sp"
+            android:gravity="center"/>
+
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:id="@+id/tvH12"
+            android:text="Stages of Breast Cancer"
+            android:textSize="26sp"
+            android:textColor="#b48484"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginBottom="20dp"/>
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:id="@+id/img13"
+            android:gravity="center"
+            android:background="@drawable/s1"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp"
+            android:contentDescription="Stage 1"/>
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:id="@+id/img14"
+            android:gravity="center"
+            android:background="@drawable/s2"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp"
+            android:contentDescription="Stage 2"/>
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:id="@+id/img15"
+            android:gravity="center"
+            android:background="@drawable/s3"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp"
+            android:contentDescription="Stage 3"/>
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:id="@+id/img16"
+            android:gravity="center"
+            android:background="@drawable/s4"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp"
+            android:contentDescription="Stage 4"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvText12"
+            android:text="@string/text12"
+            android:textSize="20sp"
+            android:gravity="center"/>
+    </LinearLayout>
+</ScrollView>

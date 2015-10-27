@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:background="@android:color/darker_gray"
+    android:paddingBottom="10dp" tools:context=".MainMenu">
+
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:background="@drawable/bg"
+      android:id="@+id/a">
+
+
+      <ImageView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:id="@+id/imageView"
+          android:src="@drawable/logo"
+          android:layout_marginTop="10dp"
+          android:layout_alignParentTop="true"
+          android:layout_centerHorizontal="true" />
+
+      <Button
+          android:textColor="@android:color/white"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="WHAT TO KNOW"
+          android:layout_marginTop="10dp"
+          android:id="@+id/button"
+          android:background="@drawable/button_design"
+          android:layout_below="@+id/imageView"
+          android:layout_centerHorizontal="true" />
+
+      <Button
+          android:textColor="@android:color/white"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="WHAT TO HAPPEN"
+          android:layout_marginTop="25dp"
+          android:id="@+id/button2"
+          android:background="@drawable/button_design"
+          android:layout_below="@+id/button"
+          android:layout_centerHorizontal="true" />
+
+      <Button
+          android:textColor="@android:color/white"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="WHAT TO EXPECT"
+          android:background="@drawable/button_design"
+          android:layout_marginTop="25dp"
+          android:id="@+id/button3"
+          android:layout_below="@+id/button2"
+          android:layout_centerHorizontal="true" />
+  </RelativeLayout>
+
+</LinearLayout>

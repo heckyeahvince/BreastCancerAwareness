@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/bg">
+
+        <TextView
+            android:id="@+id/tvFragSecond"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textSize="26sp"
+            android:text="TextView"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginTop="20dp" />
+
+
+
+        <!--<ImageView-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/img1"-->
+            <!--android:gravity="center"-->
+            <!--android:background="@drawable/sym"-->
+            <!--android:layout_gravity="center_horizontal" />-->
+
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:id="@+id/tvH3"
+            android:text="A Global Burden"
+            android:textSize="26sp"
+            android:textColor="#b48484"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginBottom="20dp"/>
+
+        <!--<ImageView-->
+            <!--android:layout_width="500dp"-->
+            <!--android:layout_height="400dp"-->
+            <!--android:id="@+id/img2"-->
+            <!--android:gravity="center"-->
+            <!--android:background="@drawable/bcf1"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:layout_marginBottom="20dp"-->
+            />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvText3"
+            android:text="@string/text3"
+            android:textSize="20sp"
+            android:gravity="center"/>
+
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:id="@+id/tvH5"
+            android:text="Known Risk Factors"
+            android:textSize="26sp"
+            android:textColor="#b48484"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginBottom="20dp"/>
+
+        <!--<ImageView-->
+            <!--android:layout_width="600dp"-->
+            <!--android:layout_height="300dp"-->
+            <!--android:id="@+id/img3"-->
+            <!--android:gravity="center"-->
+            <!--android:background="@drawable/cobc2"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:layout_marginBottom="20dp" />-->
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvText5"
+            android:text="@string/text5"
+            android:textSize="20sp"
+            android:gravity="center"/>
+
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:id="@+id/tvH6"
+            android:text="What Do Scientists Actually Know About The Cause Of Breast Cancer?"
+            android:textSize="26sp"
+            android:textColor="#b48484"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginBottom="20dp"/>
+
+        <!--<ImageView-->
+            <!--android:layout_width="600dp"-->
+            <!--android:layout_height="300dp"-->
+            <!--android:id="@+id/img4"-->
+            <!--android:gravity="center"-->
+            <!--android:background="@drawable/rf1"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:layout_marginBottom="20dp" />-->
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvText6"
+            android:text="@string/text6"
+            android:textSize="20sp"
+            android:gravity="center"/>
+
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:id="@+id/tvH7"
+            android:text="Genetic Factors"
+            android:textSize="26sp"
+            android:textColor="#b48484"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginBottom="20dp"/>
+
+        <!--<ImageView-->
+            <!--android:layout_width="500dp"-->
+            <!--android:layout_height="400dp"-->
+            <!--android:id="@+id/img7"-->
+            <!--android:gravity="center"-->
+            <!--android:background="@drawable/rf2"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:layout_marginBottom="20dp" />-->
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvText7"
+            android:text="@string/text7"
+            android:textSize="20sp"
+            android:gravity="center"/>
+
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:id="@+id/tvH8"
+            android:text="Environmental and Lifestyle Factors"
+            android:textSize="26sp"
+            android:textColor="#b48484"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_marginBottom="20dp"/>
+
+        <!--<ImageView-->
+            <!--android:layout_width="400dp"-->
+            <!--android:layout_height="600dp"-->
+            <!--android:id="@+id/img8"-->
+            <!--android:gravity="center"-->
+            <!--android:background="@drawable/rf3"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:layout_marginBottom="20dp" />-->
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvText8"
+            android:text="@string/text8"
+            android:textSize="20sp"
+            android:gravity="center"/>
+    </LinearLayout>
+</ScrollView>
